@@ -1,0 +1,71 @@
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ProductCategory.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CompanyName.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ItemList.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockIn.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockOut.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CompanyName.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ItemList.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Login.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ProductCategory.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockIn.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockOut.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CompanyName.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ItemList.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.productCategory.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockIn.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockOut.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.CompanyName.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ItemList.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Login.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.productCategory.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockIn.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.StockOut.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb

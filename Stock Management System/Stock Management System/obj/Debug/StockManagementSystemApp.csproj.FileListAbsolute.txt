@@ -1,0 +1,411 @@
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemList.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ProductEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockIn.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ProductEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\Stock18-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Form1.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemList.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Form1.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockIn.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockIn.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ProductEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 21-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemEntryUI.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemEntryUI.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ProductEntryUI.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockIn.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+C:\Users\Web App Develop .Net\Desktop\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ProductEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\SMS 24-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockInUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ProductEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockInUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ItemEntryUI.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Login.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.MainForm.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.SearchViewItems.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockInUI.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.StockOut.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.ViewSales.resources
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Dot Net Work File\SMS 25-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CategoryEntryUI.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Mamun\Final\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Mamun\Final\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOut.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Mamun\Final\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Mamun\Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Mamun\Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Mamun\Project\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Mamun\Project\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+C:\Users\nargis\Desktop\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\C# Projects\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\Re-Project-28-12-17\Re- Project- 28-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS-31-12-17\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 01-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\Stock Management Project\SMS-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+G:\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMNew-02-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+F:\Jasim\Visual Basic C#\BITM\BITM All Project\SMSNew-03-01-2018\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+C:\Users\nargis\Desktop\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+C:\Users\Jasim\Desktop\Happy New Year 2018\SMNew 03-01-18\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 05-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\Stock Management 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\itextsharp.dll
+E:\Educaton\Programming file\ASP.NET\BITM C# Development\BITM Project ALL\Stock Management\SMS 09-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\itextsharp.xml
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csprojResolveAssemblyReference.cache
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.CompanyEntryUI.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ItemEntryUI.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.Login.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.MainForm.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.CategoryEntryUi.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.Properties.Resources.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.SearchViewItems.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockInUI.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.StockOutUI.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.UI.ViewSales.resources
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\obj\Debug\StockManagementSystemApp.csproj.GenerateResource.Cache
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\itextsharp.dll
+E:\Educaton\Programming file\Asp.Net Development\BITM Class Lecture\SMS 19-01-18\Stock Management\Stock Management System\Stock Management System\bin\Debug\itextsharp.xml
